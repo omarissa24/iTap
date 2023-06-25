@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import {MDBContainer, MDBCol, MDBRow, MDBBtn, MDBInput } from 'mdb-react-ui-kit';
+import {MDBCol, MDBRow, MDBBtn, MDBInput } from 'mdb-react-ui-kit';
 import './Login.css';
 import axios from "axios";
 import { useDispatch } from "react-redux";
@@ -72,24 +72,24 @@ function Login() {
 
   return (
     <>
-    <MDBContainer fluid className="p-3 container">
+    <div className="containerr">
 
 
-        <MDBRow className="align-items-center justify-content-center">
+        <MDBRow className="align-items-center justify-content-center first-row">
 
             <MDBCol md='12' className='text-center text-md-center d-flex flex-column justify-content-center'>
 
                 <h1 className="my-5 display-3 fw-bold ls-tight px-3">
-                    The best offer &nbsp; 
-                    <span className="text-primary">for your business</span>
+                    Sign
+                    <span className="text-primary">Learnify</span>
                 </h1>
             
             </MDBCol>
         </MDBRow>
 
-      <MDBRow>
+      <MDBRow className='second-row'>
 
-        <MDBCol col='10' md='6'>
+        <MDBCol className='img-handle' col='10' md='6'>
           <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp" class="img-fluid" alt="Sample" />
         </MDBCol>
 
@@ -119,7 +119,7 @@ function Login() {
 
       </div>
 
-    </MDBContainer>
+    </div>
           <ToastContainer
           position="bottom-right"
           autoClose={5000}

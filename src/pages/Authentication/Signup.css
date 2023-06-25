@@ -1,9 +1,15 @@
 .container {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    height: 100vh !important;
+}
+
+.rower {
+    height: 70% !important;
     display: flex;
-    flex-direction: column;
-    align-items: center;
     justify-content: center;
-    height: 100vh;
+    align-items: flex-start !important;
 }
 
 .links {

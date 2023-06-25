@@ -31,10 +31,23 @@
     width: 100%;
 }
 
-.container {
+/* .second-row {
+    width: 60%;
+} */
+
+.img-handle {
+    margin-bottom: 4rem;
+}
+
+.containerr {
+    height: 100vh;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     align-items: center;
-    justify-content: center;
-    height: 100vh;
+    width: 100%;
+}
+
+.first-row {
+    margin-top: 5rem !important;
 }
