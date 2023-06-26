@@ -26,7 +26,7 @@ const Sub = () => {
 
   return ( details && 
     <div className='container'>
-        <button className='btn btn-primary back-btn'><a className='btn-link' href="/home">Back</a></button>
+        <button className='btn btn-primary back-btn-sub'><a className='btn-link' href="/home">Back</a></button>
         <div className='title-wrapper'>
             <h2 className='title'>{details.name}</h2>
         </div>

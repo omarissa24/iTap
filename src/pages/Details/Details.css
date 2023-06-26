@@ -9,6 +9,10 @@
     gap: 2rem;
 }
 
+.navbar {
+    padding: 1rem 2rem !important;
+}
+
 .btn-link {
     text-decoration: none !important;
     color: white !important;
@@ -25,7 +29,7 @@ body {
 }
 
 .details-gif {
-    width: 50%;
+    width: 60%;
     height: 50%;
     border: 4px solid #0d6efd !important;
     border-radius: 10px;
@@ -33,6 +37,6 @@ body {
 
 .back-btn {
     position: absolute;
-    top: 2rem;
+    top: 6rem !important;
     left: 2rem;
 }
