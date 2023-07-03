@@ -14,7 +14,7 @@ export const data = [
 
                 "content": "ء",
 
-                "link": "https://youtu.be/KktHnrH9hIE"
+                "link": "https://www.youtube.com/embed/KktHnrH9hIE"
 
             },
 
@@ -24,7 +24,7 @@ export const data = [
 
                 "content": "أ",
 
-                "link": "https://youtu.be/j_4yPeUrOoU"
+                "link": "https://www.youtube.com/embed/j_4yPeUrOoU"
 
             },
 
@@ -34,7 +34,7 @@ export const data = [
 
                 "content": "ب",
 
-                "link": "https://youtu.be/U_eX9JCLMtU"
+                "link": "https://www.youtube.com/embed/U_eX9JCLMtU"
 
             },
 
@@ -44,7 +44,7 @@ export const data = [
 
                 "content": "ت",
 
-                "link": "https://youtu.be/QXQkRXx9DOo"
+                "link": "https://www.youtube.com/embed/QXQkRXx9DOo"
 
             },
 
@@ -54,7 +54,7 @@ export const data = [
 
                 "content": "ث",
 
-                "link": "https://youtu.be/YtEjMhy1X0A"
+                "link": "https://www.youtube.com/embed/YtEjMhy1X0A"
 
             },
 
@@ -64,7 +64,7 @@ export const data = [
 
                 "content": "ج",
 
-                "link": "https://youtu.be/n0GbWCI4llc"
+                "link": "https://www.youtube.com/embed/n0GbWCI4llc"
 
             },
 
@@ -74,7 +74,7 @@ export const data = [
 
                 "content": "ح",
 
-                "link": "https://youtu.be/sNnrAUYbSIE"
+                "link": "https://www.youtube.com/embed/sNnrAUYbSIE"
 
             },
 
@@ -84,7 +84,7 @@ export const data = [
 
                 "content": "خ",
 
-                "link": "https://youtu.be/lP_etlK9yoA"
+                "link": "https://www.youtube.com/embed/lP_etlK9yoA"
 
             },
 
@@ -94,7 +94,7 @@ export const data = [
 
                 "content": "د",
 
-                "link": "https://youtu.be/TdT6AVrP9rg"
+                "link": "https://www.youtube.com/embed/TdT6AVrP9rg"
 
             },
 
@@ -104,7 +104,7 @@ export const data = [
 
                 "content": "ذ",
 
-                "link": "https://youtu.be/NThvfLHQwCs"
+                "link": "https://www.youtube.com/embed/NThvfLHQwCs"
 
             },
 
@@ -114,7 +114,7 @@ export const data = [
 
                 "content": "ر",
 
-                "link": "https://youtu.be/Boxp9tHxXBo"
+                "link": "https://www.youtube.com/embed/Boxp9tHxXBo"
 
             },
 
@@ -124,7 +124,7 @@ export const data = [
 
                 "content": "ز",
 
-                "link": "https://youtu.be/CCyJeEMOhSc"
+                "link": "https://www.youtube.com/embed/CCyJeEMOhSc"
 
             },
 
@@ -134,7 +134,7 @@ export const data = [
 
                 "content": "س",
 
-                "link": "https://youtu.be/b0u1XH-NKTc"
+                "link": "https://www.youtube.com/embed/b0u1XH-NKTc"
 
             },
 
@@ -144,7 +144,7 @@ export const data = [
 
                 "content": "ش",
 
-                "link": "https://youtu.be/Tg8BWRO1V9o"
+                "link": "https://www.youtube.com/embed/Tg8BWRO1V9o"
 
             },
 
@@ -154,7 +154,7 @@ export const data = [
 
                 "content": "ص",
 
-                "link": "https://youtu.be/kPZYLWBqb0A"
+                "link": "https://www.youtube.com/embed/kPZYLWBqb0A"
 
             },
 
@@ -164,7 +164,7 @@ export const data = [
 
                 "content": "ض",
 
-                "link": "https://youtu.be/gbUWbfy0Ero"
+                "link": "https://www.youtube.com/embed/gbUWbfy0Ero"
 
             },
 
@@ -174,7 +174,7 @@ export const data = [
 
                 "content": "ط",
 
-                "link": "https://youtu.be/6luNUOC7W_4"
+                "link": "https://www.youtube.com/embed/6luNUOC7W_4"
 
             },
 
@@ -184,7 +184,7 @@ export const data = [
 
                 "content": "ظ",
 
-                "link": "https://youtu.be/67P8ZP5427M"
+                "link": "https://www.youtube.com/embed/67P8ZP5427M"
 
             },
 
@@ -194,7 +194,7 @@ export const data = [
 
                 "content": "ع",
 
-                "link": "https://youtu.be/FvafuRZF6EM"
+                "link": "https://www.youtube.com/embed/FvafuRZF6EM"
 
             },
 
@@ -204,7 +204,7 @@ export const data = [
 
                 "content": "غ",
 
-                "link": "https://youtu.be/v6sRGb-wzhI"
+                "link": "https://www.youtube.com/embed/v6sRGb-wzhI"
 
             },
 
@@ -214,7 +214,7 @@ export const data = [
 
                 "content": "ف",
 
-                "link": "https://youtu.be/MHXLZs6RK_o"
+                "link": "https://www.youtube.com/embed/MHXLZs6RK_o"
 
             },
 
@@ -224,7 +224,7 @@ export const data = [
 
                 "content": "ق",
 
-                "link": "https://youtu.be/u-1Cm7l_adM"
+                "link": "https://www.youtube.com/embed/u-1Cm7l_adM"
 
             },
 
@@ -234,7 +234,7 @@ export const data = [
 
                 "content": "ك",
 
-                "link": "https://youtu.be/ymJRCi7QM6M"
+                "link": "https://www.youtube.com/embed/ymJRCi7QM6M"
 
             },
 
@@ -244,7 +244,7 @@ export const data = [
 
                 "content": "ل",
 
-                "link": "https://youtu.be/TAhgTY0yE3c"
+                "link": "https://www.youtube.com/embed/TAhgTY0yE3c"
 
             },
 
@@ -254,7 +254,7 @@ export const data = [
 
                 "content": "لا",
 
-                "link": "https://youtu.be/sOk-MEGvf1M"
+                "link": "https://www.youtube.com/embed/sOk-MEGvf1M"
 
             },
 
@@ -264,7 +264,7 @@ export const data = [
 
                 "content": "م",
 
-                "link": "https://youtu.be/n3SmSwNJYOw"
+                "link": "https://www.youtube.com/embed/n3SmSwNJYOw"
 
             },
 
@@ -274,7 +274,7 @@ export const data = [
 
                 "content": "ن",
 
-                "link": "https://youtu.be/NMIPqAZN1-M"
+                "link": "https://www.youtube.com/embed/NMIPqAZN1-M"
 
             },
 
@@ -284,7 +284,7 @@ export const data = [
 
                 "content": "ه",
 
-                "link": "https://youtu.be/t1C6gfSvHYU"
+                "link": "https://www.youtube.com/embed/t1C6gfSvHYU"
 
             },
 
@@ -294,7 +294,7 @@ export const data = [
 
                 "content": "و",
 
-                "link": "https://youtu.be/ff3KU0gg9c8"
+                "link": "https://www.youtube.com/embed/ff3KU0gg9c8"
 
             },
 
@@ -304,7 +304,7 @@ export const data = [
 
                 "content": "ي",
 
-                "link": "https://youtu.be/3GB4PBsXprc"
+                "link": "https://www.youtube.com/embed/3GB4PBsXprc"
 
             }
 
@@ -326,7 +326,7 @@ export const data = [
 
                 "content": "أب",
 
-                "link": "https://youtu.be/KES1JgPuriY"
+                "link": "https://www.youtube.com/embed/KES1JgPuriY"
 
             },
 
@@ -336,7 +336,7 @@ export const data = [
 
                 "content": "أخ",
 
-                "link": "https://youtu.be/xasH7Yb-Glg"
+                "link": "https://www.youtube.com/embed/xasH7Yb-Glg"
 
             },
 
@@ -346,7 +346,7 @@ export const data = [
 
                 "content": "أخت",
 
-                "link": "https://youtu.be/A27vTGSyUB8"
+                "link": "https://www.youtube.com/embed/A27vTGSyUB8"
 
             },
 
@@ -356,7 +356,7 @@ export const data = [
 
                 "content": "أصدقاء",
 
-                "link": "https://youtu.be/uop0N73gVBY"
+                "link": "https://www.youtube.com/embed/uop0N73gVBY"
 
             },
 
@@ -366,7 +366,7 @@ export const data = [
 
                 "content": "أقارب",
 
-                "link": "https://youtu.be/TdrNIx1N8ok"
+                "link": "https://www.youtube.com/embed/TdrNIx1N8ok"
 
             },
 
@@ -376,7 +376,7 @@ export const data = [
 
                 "content": "أم",
 
-                "link": "https://youtu.be/3zyF1vrFOQE"
+                "link": "https://www.youtube.com/embed/3zyF1vrFOQE"
 
             },
 
@@ -386,7 +386,7 @@ export const data = [
 
                 "content": "امرأة",
 
-                "link": "https://youtu.be/ceTdLw-t-Jg"
+                "link": "https://www.youtube.com/embed/ceTdLw-t-Jg"
 
             },
 
@@ -396,7 +396,7 @@ export const data = [
 
                 "content": "بنت",
 
-                "link": "https://youtu.be/Jdl8lFN5y8k"
+                "link": "https://www.youtube.com/embed/Jdl8lFN5y8k"
 
             },
 
@@ -406,7 +406,7 @@ export const data = [
 
                 "content": "جار",
 
-                "link": "https://youtu.be/zifA2nDdwuA"
+                "link": "https://www.youtube.com/embed/zifA2nDdwuA"
 
             },
 
@@ -416,7 +416,7 @@ export const data = [
 
                 "content": "جد",
 
-                "link": "https://youtu.be/kb_UvcgHQDg"
+                "link": "https://www.youtube.com/embed/kb_UvcgHQDg"
 
             },
 
@@ -426,7 +426,7 @@ export const data = [
 
                 "content": "جدة",
 
-                "link": "https://youtu.be/Ukz1ZoVvTYk"
+                "link": "https://www.youtube.com/embed/Ukz1ZoVvTYk"
 
             },
 
@@ -436,7 +436,7 @@ export const data = [
 
                 "content": "خال",
 
-                "link": "https://youtu.be/tn3mfW8xCqs"
+                "link": "https://www.youtube.com/embed/tn3mfW8xCqs"
 
             },
 
@@ -446,7 +446,7 @@ export const data = [
 
                 "content": "خالة",
 
-                "link": "https://youtu.be/Hv1pwcBKYoU"
+                "link": "https://www.youtube.com/embed/Hv1pwcBKYoU"
 
             },
 
@@ -456,7 +456,7 @@ export const data = [
 
                 "content": "رجل",
 
-                "link": "https://youtu.be/6qmcNPsEzj0"
+                "link": "https://www.youtube.com/embed/6qmcNPsEzj0"
 
             },
 
@@ -466,7 +466,7 @@ export const data = [
 
                 "content": "صبي",
 
-                "link": "https://youtu.be/SnZgQ6QCoSg"
+                "link": "https://www.youtube.com/embed/SnZgQ6QCoSg"
 
             },
 
@@ -476,7 +476,7 @@ export const data = [
 
                 "content": "عم",
 
-                "link": "https://youtu.be/nd7gR0rZxUc"
+                "link": "https://www.youtube.com/embed/nd7gR0rZxUc"
 
             },
 
@@ -486,7 +486,7 @@ export const data = [
 
                 "content": "عمة",
 
-                "link": "https://youtu.be/3Qlm11v4qTQ"
+                "link": "https://www.youtube.com/embed/3Qlm11v4qTQ"
 
             },
 
@@ -496,7 +496,7 @@ export const data = [
 
                 "content": "ناس",
 
-                "link": "https://youtu.be/uepQF7b3C-o"
+                "link": "https://www.youtube.com/embed/uepQF7b3C-o"
 
         
 
@@ -522,7 +522,7 @@ export const data = [
 
                 "content": "0",
 
-                "link": "https://youtu.be/GVTHdk0V5m4"
+                "link": "https://www.youtube.com/embed/GVTHdk0V5m4"
 
             },
 
@@ -532,7 +532,7 @@ export const data = [
 
                 "content": "1",
 
-                "link": "https://youtu.be/lg7pOTPMw8k"
+                "link": "https://www.youtube.com/embed/lg7pOTPMw8k"
 
             },
 
@@ -542,7 +542,7 @@ export const data = [
 
                 "content": "2",
 
-                "link": "https://youtu.be/CijJBnnOib4"
+                "link": "https://www.youtube.com/embed/CijJBnnOib4"
 
             },
 
@@ -552,7 +552,7 @@ export const data = [
 
                 "content": "3",
 
-                "link": "https://youtu.be/ut5I13e4ylQ"
+                "link": "https://www.youtube.com/embed/ut5I13e4ylQ"
 
             },
 
@@ -562,7 +562,7 @@ export const data = [
 
                 "content": "4",
 
-                "link": "https://youtu.be/kvkNR61JDZs"
+                "link": "https://www.youtube.com/embed/kvkNR61JDZs"
 
             },
 
@@ -572,7 +572,7 @@ export const data = [
 
                 "content": "5",
 
-                "link": "https://youtu.be/pgt5Q70qG88"
+                "link": "https://www.youtube.com/embed/pgt5Q70qG88"
 
             },
 
@@ -582,7 +582,7 @@ export const data = [
 
                 "content": "6",
 
-                "link": "https://youtu.be/txdt90mjCEU"
+                "link": "https://www.youtube.com/embed/txdt90mjCEU"
 
             },
 
@@ -592,7 +592,7 @@ export const data = [
 
                 "content": "7",
 
-                "link": "https://youtu.be/LoHh0M5Apg8"
+                "link": "https://www.youtube.com/embed/LoHh0M5Apg8"
 
             },
 
@@ -602,7 +602,7 @@ export const data = [
 
                 "content": "8",
 
-                "link": "https://youtu.be/CEgamlEqssg"
+                "link": "https://www.youtube.com/embed/CEgamlEqssg"
 
             },
 
@@ -612,7 +612,7 @@ export const data = [
 
                 "content": "9",
 
-                "link": "https://youtu.be/4dpXFbueLN0"
+                "link": "https://www.youtube.com/embed/4dpXFbueLN0"
 
             },
 
@@ -622,7 +622,7 @@ export const data = [
 
                 "content": "10",
 
-                "link": "https://youtu.be/JE2M2zzH_ys"
+                "link": "https://www.youtube.com/embed/JE2M2zzH_ys"
 
             },
 
@@ -632,7 +632,7 @@ export const data = [
 
                 "content": "20",
 
-                "link": "https://youtu.be/JsdjJe2YBKw"
+                "link": "https://www.youtube.com/embed/JsdjJe2YBKw"
 
             },
 
@@ -642,7 +642,7 @@ export const data = [
 
                 "content": "30",
 
-                "link": "https://youtu.be/RxvWa23838g"
+                "link": "https://www.youtube.com/embed/RxvWa23838g"
 
             },
 
@@ -652,7 +652,7 @@ export const data = [
 
                 "content": "40",
 
-                "link": "https://youtu.be/OhWxB6TGP68"
+                "link": "https://www.youtube.com/embed/OhWxB6TGP68"
 
             },
 
@@ -662,7 +662,7 @@ export const data = [
 
                 "content": "50",
 
-                "link": "https://youtu.be/awZEyCQNMAE"
+                "link": "https://www.youtube.com/embed/awZEyCQNMAE"
 
             },
 
@@ -672,7 +672,7 @@ export const data = [
 
                 "content": "60",
 
-                "link": "https://youtu.be/Spy-CJll9Zg"
+                "link": "https://www.youtube.com/embed/Spy-CJll9Zg"
 
             },
 
@@ -682,7 +682,7 @@ export const data = [
 
                 "content": "70",
 
-                "link": "https://youtu.be/ugyRGuVrPRc"
+                "link": "https://www.youtube.com/embed/ugyRGuVrPRc"
 
             },
 
@@ -692,7 +692,7 @@ export const data = [
 
                 "content": "80",
 
-                "link": "https://youtu.be/CTO3KK-urXo"
+                "link": "https://www.youtube.com/embed/CTO3KK-urXo"
 
             },
 
@@ -702,7 +702,7 @@ export const data = [
 
                 "content": "90",
 
-                "link": "https://youtu.be/lH8d9eAyzEo"
+                "link": "https://www.youtube.com/embed/lH8d9eAyzEo"
 
             },
 
@@ -712,7 +712,7 @@ export const data = [
 
                 "content": "100",
 
-                "link": "https://youtu.be/nV6eak4b2hU"
+                "link": "https://www.youtube.com/embed/nV6eak4b2hU"
 
             },
 
@@ -734,7 +734,7 @@ export const data = [
 
                 "content": "أعرف",
 
-                "link": "https://youtu.be/mgALJi7sL2I"
+                "link": "https://www.youtube.com/embed/mgALJi7sL2I"
 
             },
 
@@ -744,7 +744,7 @@ export const data = [
 
                 "content": "فهمت",
 
-                "link": "https://youtu.be/9H2JRSScgTE"
+                "link": "https://www.youtube.com/embed/9H2JRSScgTE"
 
             },
 
@@ -754,7 +754,7 @@ export const data = [
 
                 "content": "لا أعرف",
 
-                "link": "https://youtu.be/9WALSHskvsI"
+                "link": "https://www.youtube.com/embed/9WALSHskvsI"
 
             },
 
@@ -764,7 +764,7 @@ export const data = [
 
                 "content": "ما فهمت",
 
-                "link": "https://youtu.be/M9IEXV4l1H8"
+                "link": "https://www.youtube.com/embed/M9IEXV4l1H8"
 
             },
 
@@ -774,7 +774,7 @@ export const data = [
 
                 "content": "مساعدة",
 
-                "link": "https://youtu.be/ZsAB1dpSm3Y"
+                "link": "https://www.youtube.com/embed/ZsAB1dpSm3Y"
 
             },
 
@@ -784,7 +784,7 @@ export const data = [
 
                 "content": "يأكل",
 
-                "link": "https://youtu.be/2pDogDGJK3o"
+                "link": "https://www.youtube.com/embed/2pDogDGJK3o"
 
             },
 
@@ -794,7 +794,7 @@ export const data = [
 
                 "content": "يتكلم",
 
-                "link": "https://youtu.be/zg_0BDF9k0c"
+                "link": "https://www.youtube.com/embed/zg_0BDF9k0c"
 
             },
 
@@ -804,7 +804,7 @@ export const data = [
 
                 "content": "يجلس",
 
-                "link": "https://youtu.be/BQAXtX60OOk"
+                "link": "https://www.youtube.com/embed/BQAXtX60OOk"
 
             },
 
@@ -814,7 +814,7 @@ export const data = [
 
                 "content": "يركض",
 
-                "link": "https://youtu.be/iLDmMmmgoJE"
+                "link": "https://www.youtube.com/embed/iLDmMmmgoJE"
 
             },
 
@@ -824,7 +824,7 @@ export const data = [
 
                 "content": "يستيقظ",
 
-                "link": "https://youtu.be/KRiHnTXzo38"
+                "link": "https://www.youtube.com/embed/KRiHnTXzo38"
 
             },
 
@@ -834,7 +834,7 @@ export const data = [
 
                 "content": "يسكت",
 
-                "link": "https://youtu.be/2wyj4PHBnhc"
+                "link": "https://www.youtube.com/embed/2wyj4PHBnhc"
 
             },
 
@@ -844,7 +844,7 @@ export const data = [
 
                 "content": "يسمع",
 
-                "link": "https://youtu.be/hGeawT3L9JM"
+                "link": "https://www.youtube.com/embed/hGeawT3L9JM"
 
             },
 
@@ -854,7 +854,7 @@ export const data = [
 
                 "content": "يشرب",
 
-                "link": "https://youtu.be/Qz2zY83P5ac"
+                "link": "https://www.youtube.com/embed/Qz2zY83P5ac"
 
             },
 
@@ -864,7 +864,7 @@ export const data = [
 
                 "content": "يقف",
 
-                "link": "https://youtu.be/lQ_FAvzdTbY"
+                "link": "https://www.youtube.com/embed/lQ_FAvzdTbY"
 
             },
 
@@ -874,7 +874,7 @@ export const data = [
 
                 "content": "يمشي",
 
-                "link": "https://youtu.be/hNhbo4_8u4Q"
+                "link": "https://www.youtube.com/embed/hNhbo4_8u4Q"
 
             },
 
@@ -884,7 +884,7 @@ export const data = [
 
                 "content": "ينام",
 
-                "link": "https://youtu.be/sXn5wvrSw5A"
+                "link": "https://www.youtube.com/embed/sXn5wvrSw5A"
 
             }
 
