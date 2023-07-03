@@ -49,7 +49,7 @@ const Details = () => {
     <div className='details-container container'>
         <button className='btn btn-primary back-btn'><Link className='btn-link' to={`/sub/${section}`}>Back</Link></button>
         {/* <GifPlayer className='details-gif' gif="" /> */}
-        <img className='details-gif' src={details.link} alt="" />
+        <iframe className='details-gif' width={50} src={details.link}></iframe>
         <div className='details-text'>
             <span>{details.content}</span>
         </div>

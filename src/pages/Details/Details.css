@@ -29,8 +29,8 @@ body {
 }
 
 .details-gif {
-    width: 60%;
-    height: 50%;
+    width: 60vw;
+    height: 55vh;
     border: 4px solid #0d6efd !important;
     border-radius: 10px;
 }
